@@ -12,3 +12,10 @@ ________________________________________________________________________________
 Making a purchase
 
 <img width="1219" alt="sg vending machine spring mvc make purchase" src="https://user-images.githubusercontent.com/30512121/44376851-4a31eb00-a4c8-11e8-8640-4bcd91401dc7.png">
+
+________________________________________________________________________________________
+
+Returning change
+
+<img width="1193" alt="sg vending machine spring mvc change" src="https://user-images.githubusercontent.com/30512121/44376963-ccbaaa80-a4c8-11e8-837e-0bac7c0b9318.png">
+
