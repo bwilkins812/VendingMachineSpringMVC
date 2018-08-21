@@ -10,4 +10,5 @@ Initial State
 ________________________________________________________________________________________
 
 Making a purchase
+
 <img width="1219" alt="sg vending machine spring mvc make purchase" src="https://user-images.githubusercontent.com/30512121/44376851-4a31eb00-a4c8-11e8-8640-4bcd91401dc7.png">
