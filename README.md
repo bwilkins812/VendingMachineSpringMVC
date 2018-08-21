@@ -1,6 +1,8 @@
 # VendingMachineSpringMVC
 My SG Milestone 7 summative:  Vending Machine Spring MVC (DDWA)
 
+In this project I was able to show my proficiency in using JSPs, JSTL, EL, and Spring MVC to create a virtual vending machine web application with an in-memory DAO.  I do not make any Ajax calls in this application, which makes it distinctly different from the Milestone 6 summative.
+
 ________________________________________________________________________________________
 
 Initial State
